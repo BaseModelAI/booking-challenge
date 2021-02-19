@@ -1,0 +1,6 @@
+torch==1.7.1
+pytorch_lightning==1.1.0
+tqdm==4.50.2
+pandas==1.1.5
+numpy==1.19.1
+scikit_learn==0.24.1
