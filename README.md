@@ -8,7 +8,7 @@ An example of the full EMDE algorithm run is depicted in the figure below:
 
 <p align="center"><img width="100%" src="files/images/booking_architecture.png" /></p>
 
-## Requirments
+## Requirements
 * Download binary [Cleora release](https://github.com/Synerise/cleora/releases/download/v1.1.0/cleora-v1.1.0-x86_64-unknown-linux-gnu). Then add execution permission to run it. Refer to [cleora github webpage](https://github.com/Synerise/cleora) for more details about Cleora.
 * Python 3.7
 * Install requirments: `pip install -r requirements.txt`
