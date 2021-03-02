@@ -17,7 +17,7 @@ An example of the full EMDE algorithm run is depicted in the figure below:
 
 ## Getting Started
 
-1. Download training set (`booking_train_set.csv`) from [challenge competition website](https://www.bookingchallenge.com/)
+1. Download training set (`booking_train_set.csv`) from [challenge competition website](https://035105f7-ae32-47b6-a25b-87af7924c7ea.filesusr.com/archives/3091be_233bace50f3f48fba40547a89443a96e.zip?dn=booking_dataset.zip)
 2. Split dataset into training and validation set that imitates the hidden test set:
     ```
     python train_valid_split.py --train booking_train_set.csv
